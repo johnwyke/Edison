@@ -1,0 +1,118 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+    font-size:14px;
+    
+}
+#disclaimer{
+    border:2px solid white;
+    position:absolute;
+    background-color:white;
+    height:auto;
+    width:15%;
+    top:5%;
+    text-decoration: underline;
+    font-weight:bold;
+    border-radius:15px;
+}
+header{
+    font-size:30px;
+    color:#C87533;
+    display:inline;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+header p {
+    font-size:20px;
+    color:#C87533;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    text-decoration: underline;
+}
+#navedit{
+    color:yellow;
+    font-family: "Times New Roman", Times, serif;
+    font-size:30px;
+    padding:0 20px;
+}
+
+
+.mainjumbopic{
+    background-image:url("Thomas_Edison_front.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:75vh;
+    zoom:80%;
+    border:blue 10px solid;
+}
+.timejumbopic{
+    background-image:url("TE_invent_time.png");
+    background-size:contain;
+    background-repeat: no-repeat;
+    height:80vh;
+     border:blue 10px solid;
+}
+.tribjumbopic{
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Thomas_Edison_National_Historical_Park_EDIS0420.jpg/800px-Thomas_Edison_National_Historical_Park_EDIS0420.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:100vh;
+     border:blue 10px solid;
+}
+.biopic{
+    float:left;
+    padding:15px;
+ 
+
+}
+
+article{
+    text-indent: 25px;
+    padding-left:5%;
+    font-size:18px;
+}
+section{
+      font-size:18px;
+}
+section h2{
+    text-decoration: underline;
+    color:red;
+}
+#biohead{
+     text-decoration: underline;
+    color:red;
+}
+#stories{
+    font-weight:bold;
+    color:lightslategrey;
+}
+.clear{
+   clear:both; 
+}
+.float-right{
+    float:right;
+    padding:15px;
+}
+
+
+
+.center{
+    text-align: center; 
+}
+.inline{
+    display:inline;
+    float:left;
+}
+#line{
+    border:solid black 2px;
+    margin-bottom: .5em;
+    
+}
+.pads{
+    Padding:25px;
+}
+
+footer #items{
+    display:inline;
+    list-style-type:none;
+    padding-right:5px;
+}
